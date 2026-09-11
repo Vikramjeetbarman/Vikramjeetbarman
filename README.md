@@ -13,7 +13,7 @@ vikramjeetbarman](#).
 - ⚡ **Fun fact:** When I'm not debugging code or exploring new AI tools, I design logos, craft thumbnails, and edit travel and music videos for YouTube.
 
 ### 🛠️ Languages & Tools
-*   **Languages:** C++, SQL, Python
-*   **Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems
+*   **Languages:** C++, SQL, Python 
+*   **Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems , Computer Networks
 *   **AI & Tech:** Google AI Studio, Stitch AI, Prompt Engineering, Generative AI Tools
 *   **Creative Tools:** Adobe Premiere Pro
