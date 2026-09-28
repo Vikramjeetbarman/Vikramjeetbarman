@@ -14,5 +14,4 @@ I'm an Electrical Engineering undergraduate at NIT Durgapur with a strong passio
 ### 🛠️ Languages & Tools
 *   **Languages:** C++, C , Python 
 *   **Coursework:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems , Computer Networks
-*   **AI & Tech:** Google AI Studio, Stitch AI, Prompt Engineering, Generative AI Tools
-*   **Creative Tools:** Adobe Premiere Pro
+*   **Creative Tools:** Adobe Premiere Pro .
