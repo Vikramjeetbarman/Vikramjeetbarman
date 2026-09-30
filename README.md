@@ -1,6 +1,6 @@
 # Hi there, I'm Vikramjeet Barman 👋
 
-I'm an Electrical Engineering undergraduate at NIT Durgapur with a strong passion for software engineering, competitive programming, and Artificial Intelligence. I enjoy building intelligent solutions — whether that means optimizing C++ algorithms, developing AI powered web applications , or exploring machine learning models.
+I'm an Electrical Engineering undergraduate at NIT Durgapur with a strong passion for software engineering, competitive programming, and Artificial Intelligence. I enjoy building intelligent solutions — whether that means optimizing C++ algorithms, developing AI powered web applications , or exploring machine learning models or maybe developing myself.
 
 - 🔭 **I’m currently working on:** Preparing for software engineering internships & placements .
 - 🌱 **I’m currently learning:** Core CS fundamentals (advanced DSA, DBMS, SQL, OS) and diving deeper into Machine Learning and Generative AI.
